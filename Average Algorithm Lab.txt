@@ -1,0 +1,13 @@
+﻿Pseudocode for the Average Algorithm:
+1. Set sum to 0
+2. Set count to 0
+3. For each number 'num' in the array:
+   a. If num is positive:
+      i. Add num to the sum
+      ii. Increment count by 1
+4. If count is greater than 0:
+   a. Calculate average as sum divided by count
+   b. Display the average
+5. Else:
+   a. Display a message: "No positive numbers found"
+6. End
